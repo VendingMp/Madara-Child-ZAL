@@ -1,14 +1,11 @@
 # Madara-Child-ZAL
 Madara Child Zal is a child wordpress Theme for the Madara Theme From Mangabooth
 
-## Demo Website
+## Demo Website Premium
 https://kaitosaikyo.my.id
 
 ## Private License
-buy a license for individual chat me via telegram or my email.
-
-Telegram: 
-
+buy a license for individual (Premium) chat me via email.
 Email: zenxnovel@gmail.com
 
 ## Disclaimer
