@@ -9,7 +9,7 @@ buy a license for individual chat me via telegram or my email.
 
 Telegram: 
 
-Email: zenxnodvel@gmail.com
+Email: zenxnovel@gmail.com
 
 ## Disclaimer
 The developer of this application does not have any affiliation with the content providers available.
